@@ -24,3 +24,5 @@ cf push myapp --no-start
 cf set-env myapp MESSAGE "this is myapp"
 cf start myapp
 ```
+
+test!
